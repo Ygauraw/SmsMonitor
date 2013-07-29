@@ -26,6 +26,7 @@ public class SmsStartService extends Service {
     }
 
     private void startService() {
+        // TODO: start receiver
         for(;;);
     }
 }
