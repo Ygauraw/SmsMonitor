@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SMSMonitor/SMSMonitor.iml" filepath="$PROJECT_DIR$/SMSMonitor/SMSMonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SMSMonitorProject.iml" filepath="$PROJECT_DIR$/SMSMonitorProject.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374726817387 25786 810af37a4956f0f596d5ee68cc73d74a90aae851 C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\drawable-xxhdpi\ic_launcher.png
+1374726815241 649 52e8d9051811c2787c5fc0d0dc7735d67b0820be C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\layout\activity_main.xml
+1374726814951 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\values-v11\styles.xml
+1374726815214 181 84de2797380184d8b39af6f829afb092fb956173 C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\values-sw600dp\dimens.xml
+1374726815181 244 045ff451db7cd8e61285502b8c9bbf7405f2078d C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\menu\main.xml
+1374726815196 228 9ed512e21b3d51d5f076e35728769ba8705e553f C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\values\strings.xml
+1374726815387 4684 cdbb2eda87840b62b033adcc7ae54d7963efd156 C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\drawable-mdpi\ic_launcher.png
+1374726815388 9039 2411fd083b072c6b1d42da2dfcea7fd6bbd7882a C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\drawable-hdpi\ic_launcher.png
+1374726814961 381 b129b276e01126de5b3b753572ac67cbfc19454c C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\values-v14\styles.xml
+1374726815205 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\values\dimens.xml
+1374726815388 13648 8e1ac1a49756cf92c02f826b64e81a0d34271dd9 C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\drawable-xhdpi\ic_launcher.png
+1374726814933 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\values\styles.xml
+1374726815223 254 25b6404e44acb50c82590049639d4fb5fefbac8e C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\src\main\res\values-sw720dp-land\dimens.xml

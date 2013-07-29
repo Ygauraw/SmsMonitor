@@ -1,0 +1,19 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374728952273 507 dcb57e9547e9505fa4cf0ec93785604d84b9e82e C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\R$id.class
+1374728952282 415 a7bae67b83eebf6e50082ddc4e6c2678e7598ccf C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\R$layout.class
+1374728952302 484 9a2e44beae9f62ea191f6e9adef04343e8051f92 C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\R$string.class
+1374728952292 400 36e2d1c5ddcef09850850d771c3c63306e8251fa C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\R$menu.class
+1374728952310 443 a8eb5d2ae7c13577dcb5add4b9274b77befa977f C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\R$style.class
+1374730419824 1569 1f86f2d30e82b564d5805b07bba358287c4a52d5 C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\MainActivity$1.class
+1374726815011 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\libs\android-support-v4.jar
+1374812633559 1827 f69ed819760ff8a298115294e05799cb262ab557 C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\MainActivity.class
+1374726846706 473 46897347bb5d29d84a777448518302561f3ff6d7 C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\R$dimen.class
+1374816128785 1233 02c36cd820e55fcf9024418b4c1a129dd87c6b3a C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\SmsStartService.class
+1374726846713 419 69162404b733ed8683abda91075aa4fb0534a275 C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\R$drawable.class
+1374816128691 1080 3d06915f8f97fd2dc133e7d04c564ae7be796910 C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\BootComplitedReceiver.class
+1374726846697 352 cc9e2a4f850a50b5c30b2c8d3d677c37a681eb3a C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\R$attr.class
+1374810876703 3302 8060f9e55f2d9b42c4ea90b35fb211df3120282d C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\SmsReceiver.class
+1374728952323 717 cd3272d55334d37f411e8362825c069ad5ad49fe C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\R.class
+1374726846764 353 f660fc37814f163f2f7d722a2cbca979532370ac C:\Users\ichuraev\AndroidStudioProjects\SMSMonitorProject\SMSMonitor\build\classes\debug\com\example\smsmonitor\BuildConfig.class
